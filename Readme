@@ -1,2 +1,6 @@
 run renew cert Haproxy 
 
+
+
+Example
+certbot renew --cert-name domain1.com --dry-run
